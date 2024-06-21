@@ -4,7 +4,7 @@ function Dashboard() {
   return (
     <div className="flex h-screen">
       {/* Sidebar */}
-      <div className="w-64 bg-gray-800 text-white flex flex-col">
+      <div className="w-64 bg-green-800 text-white flex flex-col">
         <div className="p-4 border-b border-gray-700">
           <h2 className="text-lg font-semibold">Sidebar</h2>
         </div>
